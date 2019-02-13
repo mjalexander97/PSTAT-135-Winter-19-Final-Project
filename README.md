@@ -6,7 +6,7 @@
 Modeling:
 Do both supervised and unsupervised 
 
-baseline -- supervised, create dummy variables for all categories, and then predict the categories 
+baseline -- supervised, create dummy variables for all categories, and then predict the categories   
   NOTE: leave out categories with less than 20 observations in them
 
 
@@ -29,9 +29,9 @@ Useful link for preprocessing in spark: https://databricks-prod-cloudfront.cloud
 TO DO: 
 
 Feature extractors (see Lecture 10 for more info): 
-  TF-IDF (Hashing & Term Frequency) SA
-  Word2Vec MA
-  Count Vectorizer NO 
+  TF-IDF (Hashing & Term Frequency) SA  
+  Word2Vec MA  
+  Count Vectorizer NO   
 
 Unsupervised/Supervised Models (hopefully by 2/17 evening?)
 
