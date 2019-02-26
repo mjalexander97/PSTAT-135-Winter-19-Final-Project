@@ -25,15 +25,27 @@ Removed stop words from questions.
 Useful link for preprocessing in spark: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3923635548890252/1357850364289680/4930913221861820/latest.html
 
 
+Code used for word cloud:
+http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
+
+https://github.com/chezou/mecab-on-pyspark/blob/master/word_cloud.py
+
+Cost function:
+
+https://rsandstroem.github.io/sparkkmeans.html
+
 
 TO DO: 
 
-Feature extractors (see Lecture 10 for more info): 
-  TF-IDF (Hashing & Term Frequency) SA  
-  Word2Vec MA  
-  Count Vectorizer NO   
+Look at purity metric for Bisecting K means example : JeopardyBisectingKmeanstest
 
-Unsupervised/Supervised Models (hopefully by 2/17 evening?)
+Figure out how to do the pipeline, crossvalidation
+
+Need one more visualization
+
+Sensitivity Analysis
+
+Final Writeup/Powerpoint Presentation
 
 
 
