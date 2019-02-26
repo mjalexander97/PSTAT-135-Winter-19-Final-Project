@@ -37,7 +37,7 @@ https://rsandstroem.github.io/sparkkmeans.html
 
 TO DO: 
 
-Look at purity metric for Bisecting K means example : JeopardyBisectingKmeanstest
+Look at purity metric for Bisecting K means example : BKM 145
 
 Figure out how to do the pipeline, crossvalidation
 
