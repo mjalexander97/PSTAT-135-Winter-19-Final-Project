@@ -40,10 +40,9 @@ TO DO:
 Figure out baseline and complex models -- need to figure out one more supervised model
 
 Figure out how to join Human Defined Clusters with datasets of 145 categories -- DONE; run below:  
-Run Naive Bayes on this . 
-Run Bisecting K-means . 
+Run Bisecting K-means .  
 
-Look at purity metric for Bisecting K means example : BKM 145 -NO
+Look at purity metric for Bisecting K means example : BKM 145 -NO  
 
 Word Clouds for clusters for BKM/NB  
 
