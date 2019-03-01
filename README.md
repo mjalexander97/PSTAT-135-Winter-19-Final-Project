@@ -37,11 +37,15 @@ https://rsandstroem.github.io/sparkkmeans.html
 
 TO DO: 
 
-Look at purity metric for Bisecting K means example : BKM 145
+Figure out baseline and complex models
 
-Figure out how to do the pipeline, crossvalidation
+Figure out how to join Human Defined Clusters with datasets of 145 categories:  
+Run Naive Bayes on this . 
+Run Bisecting K-means . 
 
-Need one more visualization
+Look at purity metric for Bisecting K means example : BKM 145 -NO
+
+Need one more visualization -- Barplot of counts of 145 categories maybe?
 
 Sensitivity Analysis
 
