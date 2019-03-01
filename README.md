@@ -37,19 +37,19 @@ https://rsandstroem.github.io/sparkkmeans.html
 
 TO DO: 
 
-Figure out baseline and complex models
+Figure out baseline and complex models -- need to figure out one more supervised model
 
-Figure out how to join Human Defined Clusters with datasets of 145 categories:  
+Figure out how to join Human Defined Clusters with datasets of 145 categories -- DONE; run below:  
 Run Naive Bayes on this . 
 Run Bisecting K-means . 
 
 Look at purity metric for Bisecting K means example : BKM 145 -NO
 
-Need one more visualization -- Barplot of counts of 145 categories maybe?
+Word Clouds for clusters for BKM/NB  
 
-Sensitivity Analysis
+Sensitivity Analysis -- change seeds and run multiple CV   
 
-Final Writeup/Powerpoint Presentation
+Final Powerpoint Presentation
 
 
 
